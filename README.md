@@ -4,4 +4,4 @@ Esta es una calculadora creada bajo el editor de IntelliJ IDEA, la cual realiza 
 
 ## Instrucciones de uso
 
-Para usar la calculadora, se debe ingresar el primer número, luego el segundo número y por último la operación que se desea realizar. El resultado se mostrará en la parte inferior de la pantalla.
+Para usar la calculadora, se debe ingresar el primer número, luego el segundo número y por último la operación que se desea realizar. El resultado se mostrará en la parte superior de la pantalla.
